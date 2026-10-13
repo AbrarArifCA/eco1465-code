@@ -6,4 +6,4 @@ Builds on data from:
 > (2025). "Fighting Climate Change: International Attitudes toward Climate Policies."
 > *American Economic Review* 115(4).
 
-Download all.dta from [www.openicpsr.org/openicpsr/project/208254/version/V1/view](https://www.openicpsr.org/openicpsr/project/208254/version/V1/view) and store it in the "data" folder to run code
+Download all.dta from [www.openicpsr.org/openicpsr/project/208254/version/V1/view](https://www.openicpsr.org/openicpsr/project/208254/version/V1/view). Create a "data" folder in the main directory, and store all.dta in the "data" folder to run code
